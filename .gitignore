@@ -1,0 +1,8 @@
+# Не коммитим сырые данные
+data/
+!data/.gitkeep
+
+# Файлы Jupyter и служебное
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
